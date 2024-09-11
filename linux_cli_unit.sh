@@ -1,3 +1,7 @@
+Name: Sion Green 
+Date: September 10, 2024. 
+Topic: Intro of Linux 
+
 #!/bin/bash
 
 echo "=== Linux CLI Unit ==="
